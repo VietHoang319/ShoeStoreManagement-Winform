@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeStore", "ShoeStore\ShoeStore.csproj", "{DD29A572-E7C9-4337-8C9B-7683A0BCD237}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bông Bông shoe store", "SetUp\Bông Bông shoe store\Bông Bông shoe store.vdproj", "{318E28C5-CE6D-48AE-A35D-DE0AB9AF1E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD29A572-E7C9-4337-8C9B-7683A0BCD237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD29A572-E7C9-4337-8C9B-7683A0BCD237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD29A572-E7C9-4337-8C9B-7683A0BCD237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD29A572-E7C9-4337-8C9B-7683A0BCD237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318E28C5-CE6D-48AE-A35D-DE0AB9AF1E12}.Debug|Any CPU.ActiveCfg = Debug
+		{318E28C5-CE6D-48AE-A35D-DE0AB9AF1E12}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA908C6-7727-428F-98D9-9CCD77850D86}
+	EndGlobalSection
+EndGlobal

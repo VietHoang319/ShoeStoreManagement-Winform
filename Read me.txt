@@ -1,0 +1,6 @@
+	Gửi người dùng thân mến!
+	Xin chào! Đầu tiên, tôi xin được cảm ơn bạn vì đã sử dụng chương trình này. Đây là một chương trình quản lý một cửa hàng giày dép được viết Ngô Việt Hoàng cùng với sự giúp đỡ của nhiều người bạn - những người góp phần làm cho chương trình tốt hơn. Chương trình bao gồm nhiều chức năng như Quản lý(Nhà cung cấp, Loại hàng, Sản phẩm, Nhân viên, Khách hàng); Quản lý, in hóa đơn(Hóa đơn bán, Hóa đơn nhập); Tìm kiếm thông tin sản phẩm; Báo cáo(Theo tháng, Theo năm); Trợ giúp; Bảo mật và phân quyền. Các chức năng của chương trình mới chỉ hoàn thiện cơ bản chưa đi sâu vào ứng dụng thực tiễn vì tôi mệt quá (thật sự xin lỗi TT^TT). Nếu bạn có điều gì thắc mắc về chương trình, xin hãy liên hệ với tôi theo thông tin ở chức năng trợ giúp. Tạm biệt, chúc bạn có một ngày làm việc thật hiệu quả!!!
+
+	Những người phát triển chương trình này
+
+		     BF3 :D
