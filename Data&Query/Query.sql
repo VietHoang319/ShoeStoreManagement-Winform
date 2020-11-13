@@ -2,14 +2,14 @@
 
 On primary(
 Name = ShoeStore_data,
-FileName = 'G:\Homeworks\Project\ShoeStore\ShoeStore_dat.mdf',
+FileName = 'E:\Project\ShoeStore\ShoeStore_dat.mdf',
 Size = 10MB,
 MaxSize = 50MB,
 FileGrowth = 2MB)
 
 Log on(
 Name = ShoeStore_log,
-FileName = 'G:\Homeworks\Project\ShoeStore\ShoeStore_lg.ldf',		
+FileName = 'E:\Project\ShoeStore\ShoeStore_lg.ldf',		
 Size = 5MB,
 MaxSize = 20MB,
 FileGrowth = 1MB);
